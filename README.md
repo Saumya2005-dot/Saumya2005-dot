@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Saumya2005-dot/Saumya2005-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm Saumya Ranjan
 
-Here are some ideas to get you started:
+🎓 4rd Year B.Tech CSE Student at BIT Mesra – Patna Campus  
+📦 Passionate about creating sustainable, data-driven solutions with code  
+💡 Exploring AI, ML, full-stack development data analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Featured Projects
+
+- 📦 [Smart Packaging Recommender](https://github.com/Saumya2005-dot/smart-packaging-recommender)  
+  A web tool that suggests eco-friendly box sizes using camera or manual input.
+
+- 🛒 [Amazon Clone Website](#) *(Upload link soon)*  
+  Search, filters, cart, admin panel — built for frontend/full-stack experience.
+
+- 📊 [COVID ML Analysis](#) *(Upload link soon)*  
+  Post-COVID impact trends across regions using ML in Python.
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning, System Design, Firebase
+
+## 📫 Reach Me
+- 📧 ranjansaumya357@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/saumyaranjan-91657428a)
+

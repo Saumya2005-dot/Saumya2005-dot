@@ -13,10 +13,10 @@
 - 📦 [Smart Packaging Recommender](https://github.com/Saumya2005-dot/smart-packaging-recommender)  
   A web tool that suggests eco-friendly box sizes using camera or manual input.
 
-- 📊 [COVID ML Analysis](#) *(https://github.com/Saumya2005-dot/post-covid-ml-analysis)*  
+- 📊 [COVID ML Analysis](https://github.com/Saumya2005-dot/post-covid-ml-analysis)  
   Post-COVID impact trends across regions using ML in Python.
 
-  - 🛒 [Amazon Clone Website](#) *(Upload link soon)*  
+- 🛒 [Amazon Clone Website](#) *(Upload link soon)*  
   Search, filters, cart, admin panel — built for frontend/full-stack experience.
 
 ---
